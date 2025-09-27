@@ -1,2 +1,3 @@
-streamlit
-instaloader
+streamlit==1.32.0
+instaloader==4.10
+requests
